@@ -1,4 +1,4 @@
-# Day-1-Practicing-SQL-in-Terminal
+# Practicing-SQL-in-Terminal
 Day 1 Practicing SQL in Terminal and my teacher is <b>ChatGPT & WhatsApp Meta</b><br>
 and loading the csv file which is generally uploaded by <b>ChatGPT</b> as a practice set<br>
 Here's the initial question that is asked by <b>ChatGPT</b>, load the CSV file on Terminal<br>
